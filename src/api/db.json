@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "1-İş bulunacak",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "2-evlenilecek",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "3-Saygınlık Kazanılacak",
+      "completed": false
+    }
+  ]
+}
